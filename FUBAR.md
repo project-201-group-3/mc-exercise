@@ -1,6 +1,6 @@
  i am carol from here
 
- Hello there, iam Carol.
+ Hello there, iam Bob.
 
 
  i am ted from here
