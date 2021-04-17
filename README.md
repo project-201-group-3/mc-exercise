@@ -5,6 +5,15 @@
 #### Lab: 14 - Merge conflicts with Bob, Carol, Ted, and Alice.
 
 
+- Bob and Carol were Noor And Ibraheem.
+
+- Alice and Ted were Rujeena And Ahmad.
+
+The rest of us "Ahmad & Abdelrahman" worked also with each one of the pairs.
+
+
+
+
  ### Team members : 
 
  - khaled al shishani (Team leader)
